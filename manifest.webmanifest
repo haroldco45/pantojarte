@@ -1,0 +1,16 @@
+{
+  "name": "Pantojarte · Planilla Diaria",
+  "short_name": "Pantojarte",
+  "description": "La planilla diaria de Pantojarte en el celular: compras, gastos operacionales, cierre e informes.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6efe6",
+  "theme_color": "#3a2014",
+  "lang": "es-CO",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
